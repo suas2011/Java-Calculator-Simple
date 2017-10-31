@@ -1,7 +1,7 @@
 # Java-Calculator-Simple
 Developing Basic Calculator in Java Using Swing Components.
 
- By Sabihuddin XXXX XXXXXXX
+ By Sabihuddin Ahmed Siddiqui.
 
 Main Class: Calculator: (Calculator.java)
 
